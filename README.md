@@ -1,6 +1,6 @@
 # Energy Systems Optimization (inspired by a course on Economics of Modern Power Systems)
 
-This repository has wor inspired from a course on Economics of Modern Power Markets, with a focus on optimization methods for energy systems modelling using Python and Pyomo. This is the stepping stone to other repositories on power systems.
+This repository has work inspired from a course on Economics of Modern Power Markets, with a focus on optimization methods for energy systems modelling using Python and Pyomo. This is the stepping stone to other repositories on power systems.
 
 ## What is included
 
